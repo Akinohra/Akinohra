@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - Hello, I'm Akinohra 👋
-- ![Akinohra](https://komarev.com/ghpvc/?username=Akinohra) ![nodejs](https://img.shields.io/badge/Nodejs-65C179?style=flat-square&logo=nodedotjs&logoColor=ffffff) ![Vuejs](https://img.shields.io/badge/Vuejs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=ffffff) ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
+- ![Akinohra](https://komarev.com/ghpvc/?username=Akinohra) ![nodejs](https://img.shields.io/badge/Nodejs-65C179?style=flat-square&logo=nodedotjs&logoColor=ffffff) ![Vuejs](https://img.shields.io/badge/Vuejs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=ffffff) ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
 
 ## Tags
 🔭 I’m currently working on **awesome projects**  
