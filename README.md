@@ -14,9 +14,7 @@
 ## 🔧 Featured Projects
 ---
 
-[![Cyberbot](https://github-readme-stats.vercel.app/api/pin/?username=Akinohra&repo=cyberbot)](https://github.com/Akinohra/cyberbot)
-
-[![Vue3 Render](https://github-readme-stats.vercel.app/api/pin/?username=Akinohra&repo=vue3-render)](https://github.com/Akinohra/vue3-render)
+<div style="display: flex; justify-content: left; gap: 20px; flex-wrap: wrap;">   <a href="https://github.com/Akinohra/cyberbot">     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akinohra&repo=cyberbot" alt="Cyberbot" width="400"/>   </a>   <a href="https://github.com/Akinohra/vue3-render">     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akinohra&repo=vue3-render" alt="Vue3 Render" width="400"/>   </a> </div>
 
 ## Some Statistics About Me
 ---
