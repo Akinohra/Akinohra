@@ -8,7 +8,7 @@
 🌱 I’m currently learning **new technologies**  
 💬 Ask me about **web development, open source, or productivity tools**  
 
-- ⚡ ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) [![Gmail](https://img.shields.io/badge/-gmail-EA4335?style=flat-square&logo=gmail&logoColor=ffffff)](cyx.ggzh@gmail.com)
+- ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) [![Gmail](https://img.shields.io/badge/-gmail-EA4335?style=flat-square&logo=gmail&logoColor=ffffff)](cyx.ggzh@gmail.com)
 
 ## Some Statistics About Me
 
