@@ -14,14 +14,14 @@
 ## 🔧 Featured Projects
 ---
 
-<a href="https://github.com/Akinohra/cyberbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Akinohra&repo=cyberbot" width="400" /></a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="https://github.com/Akinohra/vue3-render"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Akinohra&repo=vue3-render" width="400" /></a>
+<a href="https://github.com/Akinohra/cyberbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Akinohra&repo=cyberbot&theme=transparent" width="400" /></a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="https://github.com/Akinohra/vue3-render"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Akinohra&repo=vue3-render&theme=transparent" width="400" /></a>
 
 ## Some Statistics About Me
 ---
 
 [![Akinohra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akinohra&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akinohra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akinohra&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ✨ Thanks for visiting my profile! Feel free to reach out! 🌟
