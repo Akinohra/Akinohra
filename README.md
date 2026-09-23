@@ -56,9 +56,9 @@
 &nbsp;
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Akinohra&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Akinohra&show_icons=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&icon_color=0969DA&border_color=D0D7DE" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Akinohra&show_icons=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&icon_color=0969DA&border_color=D0D7DE" alt="Akinohra's GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akinohra&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&border_color=30363D" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akinohra&title_color=0969DA&text_color=24292F&icon_color=0969DA&bg_color=FFFFFF&border_color=D0D7DE" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akinohra&title_color=0969DA&text_color=24292F&icon_color=0969DA&bg_color=FFFFFF&border_color=D0D7DE" alt="Akinohra's GitHub stats" />
 </picture>
 
 <picture>
@@ -70,17 +70,17 @@
 &nbsp;
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Akinohra&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Akinohra&layout=compact&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&icon_color=0969DA&border_color=D0D7DE" />
-  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akinohra&layout=compact&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&icon_color=0969DA&border_color=D0D7DE" alt="Akinohra's top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akinohra&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&border_color=30363D&chart_color=58A6FF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akinohra&title_color=0969DA&text_color=24292F&icon_color=0969DA&bg_color=FFFFFF&border_color=D0D7DE&chart_color=0969DA" />
+  <img width="450" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akinohra&title_color=0969DA&text_color=24292F&icon_color=0969DA&bg_color=FFFFFF&border_color=D0D7DE&chart_color=0969DA" alt="Akinohra's top languages" />
 </picture>
 
 &nbsp;
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Akinohra&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=58A6FF&area=true&area_color=1F6FEB&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Akinohra&bg_color=FFFFFF&color=24292F&line=0969DA&point=0969DA&area=true&area_color=D0D7DE&hide_border=true" />
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akinohra&bg_color=FFFFFF&color=24292F&line=0969DA&point=0969DA&area=true&area_color=D0D7DE&hide_border=true" alt="Akinohra's contribution graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akinohra&utcOffset=8&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&border_color=30363D&chart_color=58A6FF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akinohra&utcOffset=8&title_color=0969DA&text_color=24292F&icon_color=0969DA&bg_color=FFFFFF&border_color=D0D7DE&chart_color=0969DA" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akinohra&utcOffset=8&title_color=0969DA&text_color=24292F&icon_color=0969DA&bg_color=FFFFFF&border_color=D0D7DE&chart_color=0969DA" alt="Akinohra's productive time" />
 </picture>
 
 ### 🐍 Watch the snake eat my contributions
