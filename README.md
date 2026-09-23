@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I'm currently working on **awesome projects** — [`cyberbot`](https://github.com/Akinohra/cyberbot) and [`vue3-render`](https://github.com/Akinohra/vue3-render)
+- 🔭 I'm currently working on **awesome projects**
 - 🌱 I'm currently learning **new technologies**
 - 💬 Ask me about **web development, open source, or productivity tools**
 - 📫 How to reach me:
@@ -46,16 +46,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| | |
-|:---:|:---:|
-| <a href="https://github.com/Akinohra/cyberbot"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akinohra&repo=cyberbot&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akinohra&repo=cyberbot&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&icon_color=0969DA&border_color=D0D7DE" /><img src="https://github-readme-stats.vercel.app/api/pin/?username=Akinohra&repo=cyberbot&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&icon_color=0969DA&border_color=D0D7DE" alt="cyberbot" width="400" /></picture></a> | <a href="https://github.com/Akinohra/vue3-render"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akinohra&repo=vue3-render&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akinohra&repo=vue3-render&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&icon_color=0969DA&border_color=D0D7DE" /><img src="https://github-readme-stats.vercel.app/api/pin/?username=Akinohra&repo=vue3-render&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&icon_color=0969DA&border_color=D0D7DE" alt="vue3-render" width="400" /></picture></a> |
 
 </div>
 
