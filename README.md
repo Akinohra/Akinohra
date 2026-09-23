@@ -1,27 +1,114 @@
-## Hi there 👋
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=200&section=header&text=Hi%2C%20I%27m%20Akinohra%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20profile%20%F0%9F%8C%9F&descAlignY=54&descSize=17&animation=fadeIn" width="100%" alt="Akinohra's banner" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Web+Developer+%F0%9F%8C%90;Vue.js+%C2%B7+TypeScript+%C2%B7+Node.js;C%2B%2B+%26+Bot+Tinkerer+%F0%9F%A4%96;Turning+ideas+into+code+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0969DA&center=true&vCenter=true&width=650&lines=Web+Developer+%F0%9F%8C%90;Vue.js+%C2%B7+TypeScript+%C2%B7+Node.js;C%2B%2B+%26+Bot+Tinkerer+%F0%9F%A4%96;Turning+ideas+into+code+%E2%9C%A8" alt="Typing SVG" />
+</picture>
+
+&nbsp;
+
+![Profile Views](https://komarev.com/ghpvc/?username=Akinohra&label=PROFILE+VIEWS&color=1F6FEB&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Akinohra?label=FOLLOWERS&style=flat-square&color=1F6FEB)
+
+</div>
+
+## 🧑‍💻 About Me
+
+- 🔭 I'm currently working on **awesome projects** — [`cyberbot`](https://github.com/Akinohra/cyberbot) and [`vue3-render`](https://github.com/Akinohra/vue3-render)
+- 🌱 I'm currently learning **new technologies**
+- 💬 Ask me about **web development, open source, or productivity tools**
+- 📫 How to reach me:
+
+&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyx.ggzh@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akinohra)
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**💻 Frontend**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**⚙️ Backend & Systems**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**🧰 Tools**
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| | |
+|:---:|:---:|
+| <a href="https://github.com/Akinohra/cyberbot"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akinohra&repo=cyberbot&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akinohra&repo=cyberbot&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&icon_color=0969DA&border_color=D0D7DE" /><img src="https://github-readme-stats.vercel.app/api/pin/?username=Akinohra&repo=cyberbot&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&icon_color=0969DA&border_color=D0D7DE" alt="cyberbot" width="400" /></picture></a> | <a href="https://github.com/Akinohra/vue3-render"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akinohra&repo=vue3-render&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akinohra&repo=vue3-render&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&icon_color=0969DA&border_color=D0D7DE" /><img src="https://github-readme-stats.vercel.app/api/pin/?username=Akinohra&repo=vue3-render&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&icon_color=0969DA&border_color=D0D7DE" alt="vue3-render" width="400" /></picture></a> |
+
+</div>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+&nbsp;
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Akinohra&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Akinohra&show_icons=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&icon_color=0969DA&border_color=D0D7DE" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Akinohra&show_icons=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&icon_color=0969DA&border_color=D0D7DE" alt="Akinohra's GitHub stats" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Akinohra&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=1F6FEB&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Akinohra&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=0969DA&fire=1F6FEB&currStreakNum=24292F&sideNums=24292F&currStreakLabel=24292F&sideLabels=24292F&dates=57606A" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Akinohra&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=0969DA&fire=1F6FEB&currStreakNum=24292F&sideNums=24292F&currStreakLabel=24292F&sideLabels=24292F&dates=57606A" alt="Akinohra's streak stats" />
+</picture>
+
+&nbsp;
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Akinohra&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Akinohra&layout=compact&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&icon_color=0969DA&border_color=D0D7DE" />
+  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akinohra&layout=compact&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&icon_color=0969DA&border_color=D0D7DE" alt="Akinohra's top languages" />
+</picture>
+
+&nbsp;
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Akinohra&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=58A6FF&area=true&area_color=1F6FEB&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Akinohra&bg_color=FFFFFF&color=24292F&line=0969DA&point=0969DA&area=true&area_color=D0D7DE&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akinohra&bg_color=FFFFFF&color=24292F&line=0969DA&point=0969DA&area=true&area_color=D0D7DE&hide_border=true" alt="Akinohra's contribution graph" />
+</picture>
+
+### 🐍 Watch the snake eat my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akinohra/Akinohra/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akinohra/Akinohra/output/github-contribution-grid-snake.svg" />
+  <img width="95%" src="https://raw.githubusercontent.com/Akinohra/Akinohra/output/github-contribution-grid-snake.svg" alt="contribution grid snake animation" />
+</picture>
+
+</div>
+
 ---
-- Hello, I'm Akinohra 👋
-- ![Akinohra](https://komarev.com/ghpvc/?username=Akinohra) ![Node.js](https://img.shields.io/badge/Node.js-65C179?style=flat-square&logo=nodedotjs&logoColor=ffffff) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=ffffff) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
 
-## Tags
----
-🔭 I’m currently working on **awesome projects**  
-🌱 I’m currently learning **new technologies**  
-💬 Ask me about **web development, open source, or productivity tools**  
+<div align="center">
 
-[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/) [![Gmail](https://img.shields.io/badge/-gmail-EA4335?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:cyx.ggzh@gmail.com)
+✨ **Thanks for visiting my profile! Feel free to reach out!** 🌟
 
-## 🔧 Featured Projects
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=120&section=footer" width="100%" alt="footer" />
 
-<a href="https://github.com/Akinohra/cyberbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Akinohra&repo=cyberbot&theme=transparent" width="400" /></a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="https://github.com/Akinohra/vue3-render"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Akinohra&repo=vue3-render&theme=transparent" width="400" /></a>
-
-## Some Statistics About Me
----
-
-[![Akinohra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akinohra&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akinohra&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
----
-✨ Thanks for visiting my profile! Feel free to reach out! 🌟
+</div>
