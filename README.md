@@ -56,9 +56,9 @@
 &nbsp;
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akinohra&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&border_color=30363D" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akinohra&title_color=0969DA&text_color=24292F&icon_color=0969DA&bg_color=FFFFFF&border_color=D0D7DE" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akinohra&title_color=0969DA&text_color=24292F&icon_color=0969DA&bg_color=FFFFFF&border_color=D0D7DE" alt="Akinohra's GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-wine-six-99.vercel.app/api?username=Akinohra&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-wine-six-99.vercel.app/api?username=Akinohra&show_icons=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&icon_color=0969DA&border_color=D0D7DE" />
+  <img height="165" src="https://github-readme-stats-wine-six-99.vercel.app/api?username=Akinohra&show_icons=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&icon_color=0969DA&border_color=D0D7DE" alt="Akinohra's GitHub stats" />
 </picture>
 
 <picture>
@@ -70,9 +70,9 @@
 &nbsp;
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akinohra&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&border_color=30363D&chart_color=58A6FF" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akinohra&title_color=0969DA&text_color=24292F&icon_color=0969DA&bg_color=FFFFFF&border_color=D0D7DE&chart_color=0969DA" />
-  <img width="450" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akinohra&title_color=0969DA&text_color=24292F&icon_color=0969DA&bg_color=FFFFFF&border_color=D0D7DE&chart_color=0969DA" alt="Akinohra's top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-wine-six-99.vercel.app/api/top-langs/?username=Akinohra&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-wine-six-99.vercel.app/api/top-langs/?username=Akinohra&layout=compact&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&icon_color=0969DA&border_color=D0D7DE" />
+  <img width="450" src="https://github-readme-stats-wine-six-99.vercel.app/api/top-langs/?username=Akinohra&layout=compact&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&icon_color=0969DA&border_color=D0D7DE" alt="Akinohra's top languages" />
 </picture>
 
 &nbsp;
