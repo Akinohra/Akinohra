@@ -3,8 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=200&section=header&text=Hi%2C%20I%27m%20Akinohra%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20profile%20%F0%9F%8C%9F&descAlignY=54&descSize=17&animation=fadeIn" width="100%" alt="Akinohra's banner" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Web+Developer+%F0%9F%8C%90;C%2B%2B+%C2%B7+TypeScript+%C2%B7+Node.js;Turning+ideas+into+code+%E2%9C%A8" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0969DA&center=true&vCenter=true&width=650&lines=Web+Developer+%F0%9F%8C%90;C%2B%2B+%C2%B7+TypeScript+%C2%B7+Node.js;Turning+ideas+into+code+%E2%9C%A8" alt="Typing SVG" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Web+Developer+%F0%9F%8C%90;C%2B%2B+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Node.js;LLM+%C2%B7+Turning+ideas+into+code+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0969DA&center=true&vCenter=true&width=650&lines=Web+Developer+%F0%9F%8C%90;C%2B%2B+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Node.js;LLM+%C2%B7+Turning+ideas+into+code+%E2%9C%A8" alt="Typing SVG" />
 </picture>
 
 &nbsp;
@@ -42,8 +42,8 @@
 **⚙️ Backend & Systems**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,cpp&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=nodejs,cpp&theme=light" alt="Backend: Node.js, C++" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,cpp,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,cpp,python&theme=light" alt="Backend: Node.js, C++, Python" />
 </picture>
 
 **🧰 Tools**
