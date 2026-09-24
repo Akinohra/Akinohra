@@ -97,7 +97,7 @@
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akinohra&utcOffset=8&title_color=0969DA&text_color=24292F&icon_color=0969DA&bg_color=FFFFFF&border_color=D0D7DE&chart_color=0969DA" alt="Akinohra's productive time" />
 </picture>
 
-### 🐍 看贪吃蛇吃掉我的提交
+### 🐍 Watch the snake eat my contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akinohra/Akinohra/output/github-contribution-grid-snake-dark.svg" />
