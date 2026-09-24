@@ -49,8 +49,8 @@
 **🧰 Tools**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=light" alt="Tools: VS Code, Git, GitHub" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode,visualstudio,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github&theme=light" alt="Tools: VS Code, Visual Studio, Git, GitHub" />
 </picture>
 
 </div>
