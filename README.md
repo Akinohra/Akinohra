@@ -16,37 +16,37 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:58A6FF&height=3" width="100%" alt="divider" />
 
-## 🧑‍💻 About Me
+## 🧑‍💻 关于我
 
-- 🔭 I'm currently working on **awesome projects**
-- 🌱 I'm currently learning **new technologies**
-- 💬 Ask me about **web development, open source, or productivity tools**
-- 📫 How to reach me:
+- 🔭 目前正在做一些**有趣的项目**
+- 🌱 正在探索 **LLM 与 AI 应用开发**
+- 💬 欢迎和我聊 **Web 开发、开源与效率工具**
+- 📫 联系方式：
 
 &nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyx.ggzh@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akinohra)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:58A6FF&height=3" width="100%" alt="divider" />
 
-## 🛠️ Tech Stack
+## 🛠️ 技术栈
 
 <div align="center">
 
-**💻 Frontend**
+**💻 前端**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue,ts,js,html,css&theme=dark" />
   <img src="https://skillicons.dev/icons?i=vue,ts,js,html,css&theme=light" alt="Frontend: Vue.js, TypeScript, JavaScript, HTML5, CSS3" />
 </picture>
 
-**⚙️ Backend & Systems**
+**⚙️ 后端 & 系统**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,cpp,python&theme=dark" />
   <img src="https://skillicons.dev/icons?i=nodejs,cpp,python&theme=light" alt="Backend: Node.js, C++, Python" />
 </picture>
 
-**🧰 Tools**
+**🧰 工具**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode,visualstudio,git,github&theme=dark" />
@@ -57,7 +57,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:58A6FF&height=3" width="100%" alt="divider" />
 
-## 📊 GitHub Statistics
+## 📊 GitHub 统计
 
 <div align="center">
 
@@ -97,7 +97,7 @@
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akinohra&utcOffset=8&title_color=0969DA&text_color=24292F&icon_color=0969DA&bg_color=FFFFFF&border_color=D0D7DE&chart_color=0969DA" alt="Akinohra's productive time" />
 </picture>
 
-### 🐍 Watch the snake eat my contributions
+### 🐍 看贪吃蛇吃掉我的提交
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akinohra/Akinohra/output/github-contribution-grid-snake-dark.svg" />
@@ -111,7 +111,7 @@
 
 <div align="center">
 
-✨ **Thanks for visiting my profile! Feel free to reach out!** 🌟
+✨ **感谢访问我的主页，欢迎随时交流！** 🌟
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=120&section=footer" width="100%" alt="footer" />
 
